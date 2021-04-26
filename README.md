@@ -25,7 +25,7 @@ The Total Fare by City Type graph shows us that the three city types follow the 
 
 After analyzing the data for urban, suburban and rural ride-sharing data, we are providing the following recommendations:
 
-1. Although rural drivers seem to be profiting the most due to low supply, fares are drastically higher for riders compared to urban and suburban cities. This may also be a turn-off for riders. To offset the high average fare and increase access to riders, the company may want to allocate more drivers in urban areas.
+1. Although rural drivers seem to be profiting the most due to low supply, fares are drastically higher for riders compared to urban and suburban cities. This may be a turn-off for riders, contributing to low fare totals. To offset the high average fare and increase access to riders, the company may want to allocate more drivers in urban areas.
 
 2. To further maximize profits in rural areas, in addition to allocating more drivers, the company could invest in advertising for PyBer to promote ride-sharing services.
 
