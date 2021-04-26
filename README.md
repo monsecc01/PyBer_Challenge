@@ -13,7 +13,7 @@ The purpose of the PyBer analysis is to evaluate ride-sharing data across three 
 
 ## Results
 
-The PyBer summary DataFrame shows that rural areas have the lowest total rides, 125 total rides. It is observed that the total number of drivers is also significantly lower than urbanized areas; 78 total drivers in rural areas compared to 2,405 total drivers in urban cities. The lower ride and driver totals may be due to the lower populations in rural areas, which may limit the access of PyBer services to both drivers and riders. We can also see from the summary DataFrame that rural areas have higher fares per ride and per driver. While the total fares show that rural areas do not bring the most money, drivers seem to be making larger a profit compared to urban drivers. 
+The PyBer summary DataFrame shows that rural areas have the lowest total rides, 125 total rides. It is observed that the total number of drivers is also significantly lower than urbanized areas; 78 total drivers in rural areas compared to 2,405 total drivers in urban cities. The lower ride and driver totals may be due to the lower populations in rural areas, which may limit the access of PyBer services to both drivers and riders. We can also see from the summary DataFrame that rural areas have higher fares per ride and per driver. While the total fares show that rural areas do not make the most profit, urban drivers seem to be making larger a profit compared to urban drivers. 
 
  ![pyBer_summary](https://user-images.githubusercontent.com/81447450/116019167-3b048300-a609-11eb-817e-e8461ef99bf5.png)
 
